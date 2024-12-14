@@ -1,5 +1,5 @@
 h1{
-      text-align: center /align the headline in center/
+      text-align: center /*align the headline in center*/
     }
 /* Shadowed effect for alternate rows */
 tbody tr:nth-child(odd) {
