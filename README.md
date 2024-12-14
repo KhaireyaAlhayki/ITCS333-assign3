@@ -11,7 +11,9 @@ ITCS333
 - Khaireya Husain Alhaiki: 202208539
 
 ## How to Run the Project
-1. Open your browser and open the index.html file there (you can do that by clicking on the index.html to open in your browser) to view the data.
+1. clone the repository to your pc.
+2. use any editor that works for JS, HTML, and CSS such as Visual Studio Code.
+3. Open your browser and open the index.html file there (you can do that by clicking on the index.html to open in your browser) to view the data.
 
 ## Tools Used
 - JavaScript for getting and processing data.
