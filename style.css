@@ -1,0 +1,14 @@
+/* Shadowed effect for alternate rows */
+tbody tr:nth-child(odd) {
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+tbody tr {
+  transition: transform 0.2s;
+}
+tbody tr:hover {
+  transform: scale(1.02);
+  box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2);
+}
